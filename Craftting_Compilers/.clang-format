@@ -1,0 +1,18 @@
+---
+  BasedOnStyle: Google
+  AlignTrailingComments: 'true'
+  AllowAllParametersOfDeclarationOnNextLine: 'false'
+  AllowShortCaseLabelsOnASingleLine: 'true'
+  AlwaysBreakTemplateDeclarations: 'No'
+  BreakBeforeBinaryOperators: All
+  BreakBeforeBraces: Attach
+  BreakBeforeTernaryOperators: 'true'
+  ColumnLimit: '80'
+  ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
+  IncludeBlocks: Preserve
+  IndentPPDirectives: AfterHash
+  IndentWidth: '2'
+  PenaltyExcessCharacter: 100000000
+  SortIncludes: 'true'
+  TabWidth: '2'
+...
