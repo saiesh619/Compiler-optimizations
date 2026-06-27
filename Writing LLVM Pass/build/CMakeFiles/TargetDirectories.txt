@@ -1,0 +1,9 @@
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/intrinsics_gen.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/vt_gen.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/omp_gen.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/acc_gen.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/target_parser_gen.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/OptimizationPasses.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/run_passes.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/edit_cache.dir
+/Users/harshad/Documents/LLVM Project/build/CMakeFiles/rebuild_cache.dir
