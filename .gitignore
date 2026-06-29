@@ -1,0 +1,36 @@
+
+# macOS
+.DS_Store
+
+# Build directories
+build/
+cmake-build-*/
+out/
+dist/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+install_manifest.txt
+
+# Ninja generated files
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# Make generated files
+Makefile
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
